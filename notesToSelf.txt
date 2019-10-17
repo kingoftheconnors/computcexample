@@ -1,1 +1,1 @@
-Add second timer
+Make second timer and make it count seconds
