@@ -5,5 +5,6 @@ public class Timer {
         System.out.println("Hello World!");
         TimeUnit.SECONDS.sleep(10);
         System.out.println("Hello World!");
+        System.out.println("Hello World!");
     }
 }
